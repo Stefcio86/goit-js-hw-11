@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.search-form {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+#search-input {
+    width: 300px;
+    padding: 10px;
+    font-size: 16px;
+}
+
+button {
+    padding: 10px;
+    font-size: 16px;
+}
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.gallery-item {
+    margin: 10px;
+    text-align: center;
+}
+
+.gallery-item img {
+    width: 300px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.info {
+    margin-top: 10px;
+    font-size: 14px;
+}
+
+.loading-indicator {
+    display: none;
+    text-align: center;
+    margin: 20px;
+    font-size: 18px;
+}
