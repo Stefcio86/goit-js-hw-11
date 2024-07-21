@@ -4,7 +4,7 @@ import SimpleLightbox from 'simplelightbox';
 import 'simplelightbox/dist/simple-lightbox.min.css';
 import './css/styles.css';
 
-const API_KEY = 'YOUR_PIXABAY_API_KEY';
+const API_KEY = '45042225-41fd9f6f9757e1f3272f741dc';
 const API_URL = 'https://pixabay.com/api/';
 
 const form = document.getElementById('search-form');
