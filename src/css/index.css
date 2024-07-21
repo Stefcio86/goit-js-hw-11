@@ -21,14 +21,14 @@ body {
 #search-input {
     padding: 10px;
     font-size: 16px;
-    border: 1px solid #ddd;
+    border: 1px solid #f0f0f0;
     border-radius: 4px 0 0 4px;
 }
 
 #search-form button {
     padding: 10px 20px;
     font-size: 16px;
-    border: 1px solid #ddd;
+    border: 1px solid #f0f0f0;
     background-color: #4E75FF;
     color: white;
     border-radius: 0 4px 4px 0;
